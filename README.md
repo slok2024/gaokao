@@ -1,4 +1,4 @@
-浙江省高考志愿投档数据分析、检索与预测系统
+高考志愿投档数据分析、检索与预测系统
 
 演示地址：https://zhejiang.helloworld2024.workers.dev/
 
